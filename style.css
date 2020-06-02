@@ -1,0 +1,17 @@
+body{
+  font-family: 'Covered By Your Grace', cursive;
+  color: #000000;
+  font size:20px;
+  overflow-x: hidden;
+  background-image: linear-gradient(rgba(255,0,0,0), yellow);
+  width: auto;
+  height: auto;
+  padding-bottom: 100%;
+}
+label{
+  color:rgb(255, 89, 45);
+}
+button{
+  background-color: #A83B00;
+  color: #ffffff;
+}
